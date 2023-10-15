@@ -7,21 +7,21 @@ Welcome to the Python for DevOps and Cloud Engineers course repository. This cou
 
 ## Course Overview
 
-This course is divided into modules, each covering different aspects of Python in the context of DevOps and cloud engineering. Here's an overview of what you can expect to learn:
+This course is divided into Days, each covering different aspects of Python in the context of DevOps and cloud engineering. Here's an overview of what you can expect to learn:
 
-- **Module 1:** Introduction to Python
+- **Day 1:** Introduction to Python
   - An introduction to Python and its applications in the DevOps and cloud engineering field.
   
-- **Module 2:** Python Basics
+- **Day 2:** Python Basics
   - Learn the fundamentals of Python, including variables, data types, and control structures.
   
-- **Module 3:** Working with Files
+- **Day 3:** Working with Files
   - Explore file I/O operations, working with JSON and CSV files, and more.
 
-- **Module 4:** Automating Tasks
+- **Day 4:** Automating Tasks
   - Discover how to automate common tasks in DevOps and cloud engineering using Python.
 
-- **Module 5:** Integrating with Cloud Services
+- **Day 5:** Integrating with Cloud Services
   - Learn how to interact with cloud platforms like AWS, Azure, and GCP using Python.
 
 ## Prerequisites
@@ -43,7 +43,7 @@ cd python-for-devops
 markdown
 Copy code
 
-3. Browse the course content in the module folders.
+3. Browse the course content in the Day folders.
 
 ## Course Instructor
 
